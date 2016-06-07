@@ -21,23 +21,23 @@ theme:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "codebayarea@gmail.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: "rohanchandra/type-theme"
-  google_plus:
+  github: "codebayarea/codebayarea.github.io"
+  google_plus: "https://plus.google.com/101204275082602816390/about"
   instagram:
-  linkedin:  # Full URL
+  linkedin: "https://www.linkedin.com/company/codebayarea?trk=top_nav_home"
   pinterest:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "twitter"
+  twitter: "codebayarea"
   wordpress:
   youtube:
 
