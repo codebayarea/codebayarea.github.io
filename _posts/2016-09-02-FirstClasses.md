@@ -8,6 +8,3 @@ Our first classes will begin on Saturday, September 10th and every Saturday afte
 Subscribe to our calendar [here](http://codebayarea.com/calendar.html) to receive notifications about our classes.
 
 We look forward to seeing all you guys there!
-
---
-CodeBayArea Team
