@@ -1,6 +1,6 @@
 # CodeBayArea Blog Site Source
 
-# Type Theme
+## Type Theme
 
 We utilize Type Theme. 
 
