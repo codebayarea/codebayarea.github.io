@@ -8,3 +8,14 @@
     margin-bottom: 5px;
     margin-top: 25px;
 }
+
+.call-out-blog {
+    display: inline-block;
+    width: 100%;
+    background-color: #16A085;
+    background-size: cover;
+    font-size: 1.2em;
+    text-align: center;
+    color: #FFF;
+    padding: 2.5% 12.5%;
+}
