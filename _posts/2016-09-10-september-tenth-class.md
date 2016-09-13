@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introductory Python Course: First Class
+title: First Class of Introductory Python
 feature-img: "img/Python/09102016/DSCF2536.JPG"
 ---
 
