@@ -21,3 +21,15 @@ And now Cameron was able to [teach the class the basics of Python](/img/Python/0
 Cameron covered two operators: `and` plus `or`, a fairly accessible topic. We affirmed that sloths are rad and that when presented with a scenario like `8-3==7 or 6+1==7`, Python would return a `True`.
 
 ![Sloths](/img/Python/09102016/DSCF2529.JPG)
+
+Kylee then gave an example of a potential usage of those operators - in a school gradebook. How can we use operators to convert a numerical grade (e.g. 88) and convert it to a letter grade (an 88 would correspond to a B)? By writing `if` statements and utilizing operators!
+
+![Gradebook](/img/Python/09102016/DSCF2535.JPG)
+
+Of course we didn't give out that "answer" beforehand, we had the students attempt the gradebook problem first. We could see our students trying to [work it out](/img/Python/09102016/DSCF2539.JPG) as well as [celebrating](/img/Python/09102016/DSCF2544.JPG) (oh, the joys of Python).
+
+We took a sneak peak at next week's material dealing with graphics, and took a few class pictures.
+
+![A class photo](/img/Python/09102016/DSCF2558.JPG)
+
+See you all next week for another fruitful session!
