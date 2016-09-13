@@ -6,7 +6,7 @@ feature-img: "img/Python/09102016/DSCF2536.JPG"
 
 CodeBayArea kicked off its first class at the Vineyard Library this last Saturday, September 10th.
 
-Our class took place in the Community Room, which was not in plain sight so Kevin had to greet the parents and students.
+Our class took place in the Community Room, which was not in plain sight so Kevin helped show the way for parents and students.
 
 ![The Community Room](/img/Python/09102016/DSCF2490.JPG)
 
