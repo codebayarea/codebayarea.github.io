@@ -16,7 +16,7 @@ To follow, Cameron and Kylee helped the students download the pre-requisites to 
 
 ![Python pre-reqs](/img/Python/09102016/DSCF2506.JPG)
 
-And now Cameron was able to [teach the class the basics of Python](/img/Python/09102016/DSCF2510.JPG). The projected screen wasn't very visible so we made a [color scheme](/img/Python/09102016/DSCF2520.JPG) change from a white background to a blue one within the Python IDLE integrated development environment (sorry for inconvenience for those sitting in the back).
+And now Cameron was able to [teach the class the basics of Python](/img/Python/09102016/DSCF2510.JPG). The projected screen wasn't very visible so we made a [color scheme](/img/Python/09102016/DSCF2520.JPG) change from a white background to a blue one within the Python IDLE integrated development environment (sorry for the inconvenience for those sitting in the back).
 
 Cameron covered two operators: `and` plus `or`, a fairly accessible topic. We affirmed that sloths are rad and that when presented with a scenario like `8-3==7 or 6+1==7`, Python would return a `True`.
 
