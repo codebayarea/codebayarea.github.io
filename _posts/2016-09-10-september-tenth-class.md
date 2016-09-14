@@ -10,7 +10,7 @@ Our class took place in the Community Room, which was not in plain sight so Kevi
 
 ![The Community Room](/img/Python/09102016/DSCF2490.JPG)
 
-But after that, it was mostly smoothing sailing. After Cameron [helped the students](/img/Python/09102016/DSCF2491.JPG) get the Internet set up, the class was ready to begin. Cameron gave a presentation about Python and giving examples of its usage in the real world.
+But after that, it was mostly smooth sailing. After Cameron [helped the students](/img/Python/09102016/DSCF2491.JPG) helped the students get the Internet set up, the class was ready to begin. Cameron gave a presentation about Python and giving examples of its usage in the real world.
 
 To follow, Cameron and Kylee helped the students download the pre-requisites to interact with Python.
 
