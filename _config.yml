@@ -14,7 +14,7 @@ theme_settings:
   header_text: >
      <p>Welcome to the CodeBayArea blog!</p>
   header_text_feature_image:
-  footer_text: >
+  footer_text: > test
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
   # Icons
