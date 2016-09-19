@@ -57,9 +57,11 @@ Now `larry` is going to be moving in very unique ways. By utilizing a [loop](/im
 
 ![Star](/img/Python/09172016/DSCF2603.JPG)
 
+Much more complex than the original "move forward by 50 steps", right?
+
 One last addition: by using {% highlight python %}larry.pencolor("blue"){% endhighlight %} we were able to track `larry`'s path in colors other than black; in this case, it's blue. Students were able to use if-statements to track `larry`'s path in a [combination of colors](/img/Python/09172016/DSCF2615.JPG)!
 
-And here's the part about us having more than two teachers join us. Students were able to help eachother code creative paths!
+And here's the part about us having more than two teachers join us. Students were able to help eachother code creative paths collaboratively!
 
 ![Peer tutoring](/img/Python/09172016/DSCF2620.JPG)
 
