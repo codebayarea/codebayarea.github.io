@@ -24,7 +24,7 @@ We chose an animal, coincidentally named a turtle, and named it `larry`. `larry`
 
 Not very complex, but it sets the foundation for more complex shapes.
 
-`larry`'s second trip was to move in the shape of a square. We did this by using some [basic geometry](/img/Python/09172016/DSCF2586.JPG)
+`larry`'s second trip was to move in the shape of a square. We did this by using some [basic geometry](/img/Python/09172016/DSCF2586.JPG).
 
 ![Square](/img/Python/09172016/screenshot2.png)
 
