@@ -42,7 +42,8 @@ print ("end test")
 
 In the above snippet of code, we first print "start test", and then we have a loop in which i, an integer, is printed and then it prints test. i then increments to 1, and the cycle continues until it hits 3 (0 to 3 has four digits: 0, 1, 2, 3). And once that loop is completed, an "end test" is printed. So what we get from running the above code is:
 
-`start test
+{% highlight Plain Text %}
+start test
 0
 test
 1
@@ -51,7 +52,8 @@ test
 test
 3
 test
-end test`
+end test
+{% endhighlight %}
 
 Now `larry` is going to be moving in very unique ways. By utilizing a [loop](/img/Python/09172016/DSCF2602.JPG), we were able to get this shape:
 
