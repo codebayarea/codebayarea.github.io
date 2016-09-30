@@ -20,16 +20,16 @@ We wrote a couple functions together so that we had the basics down at first:
 
 ![Function](/img/Python/3/function.jpg)
 
-After getting more accustomed to functions, we even had some students come up and write some functions!
-We modified some `math operators` and called the functions to calculate the numbers we gave it!
+After getting more accustomed to functions, we even had some students come up and write some of their own!
+We modified some `math operators` and called the functions to calculate the numbers we gave it.
 
 ![Student](/img/Python/3/stufunct.jpg)
 
-We even wrote a function to show how hungry we were at the time!
+We even wrote a function to show how hungry we were at the time :)
 
 ![Hungry](/img/Python/3/hungry.jpg)
 
-After creating alot of different functions that do alot of different things, we played around with what we had learned and had a great time just experimenting with what functions can do!
+After creating alot of different functions that do alot of different things, we played around with what we had learned and had a great time just experimenting with what functions can do.
 
 ![Final Img](/img/Python/3/peace.jpg)
 
