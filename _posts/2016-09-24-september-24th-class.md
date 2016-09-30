@@ -29,4 +29,10 @@ We even wrote a function to show how hungry we were at the time!
 
 ![Hungry](/img/Python/3/hungry.jpg)
 
+After creating alot of different functions that do alot of different things, we played around with what we had learned and had a great time just experimenting with what functions can do!
+
+![Final Img](/img/Python/3/peace.jpg)
+
+See you all next week for the final session on introductory Python!
+
 
