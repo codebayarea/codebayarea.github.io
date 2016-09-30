@@ -1,34 +1,30 @@
 ---
 layout: post
-title: Second Class of Introductory Python
-feature-img: "img/Python/09172016/DSCF2605.JPG"
+title: Third Class of Introductory Python
+feature-img: "img/165623.jpg"
 ---
 
-We had two new teachers join us today! Now any questions that students have can now be solved quicker.
+We started off the class today with a review of some of the Python `turtle` that we used last week.
 
-![New Teachers](/img/Python/09172016/DSCF2574.JPG)
+![Review](/img/Python/3/rev.jpg)
 
-Actually, we had more than two teachers joining us. More on that later.
+Even though this code was a little challenging, we muscled through it and managed to get it all working! 
 
-Today, we focused on graphics in Python by utilizing `turtle`. So after making sure we have
+We had an output that required functions, different colors, and some math in order to work. It looked like this when completed:
 
-{% highlight python %}
-import turtle
-{% endhighlight %}
+![Output](/img/Python/3/turtleout.png)
 
-on the top of our files, we were ready to set the foundation for slick shapes.
+After conquering the complex turtle code, we were ready to move on to `functions`!
 
-We chose an animal, coincidentally named a turtle, and named it `larry`. `larry`'s first trip was to move forward 50 steps.
+We wrote a couple functions together so that we had the basics down at first: 
 
-![Forward](/img/Python/09172016/screenshot1.png)
+![Forward](/img/Python/3/function.jpg)
 
-Not very complex, but it sets the foundation for more complex shapes.
+After getting more accustomed to functions, we even had some students come up and write some functions!
+We modified some `math operators` and called the functions to calculate the numbers we gave it!
+![Square](/img/Python/3/stufunct.jpg)
 
-`larry`'s second trip was to move in the shape of a square. We did this by using some [basic geometry](/img/Python/09172016/DSCF2586.JPG).
-
-![Square](/img/Python/09172016/screenshot2.png)
-
-Loops become a "building block" to creating more advanced shapes.
+The basic function looked something like this:
 
 {% highlight python %}
 print ("start test")
