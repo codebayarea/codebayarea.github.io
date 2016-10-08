@@ -42,4 +42,4 @@ After lots of [hard work](/img/Python/10012016/DSCF2714.JPG) [and comprehending 
 
 ![Solutions](/img/Python/10012016/DSCF2718.JPG)
 
-And this basically wraps up our last class, and our four-week Python course. But referring back to the starting sentence, even though our first introductory Python course has come to a closer, we have something new coming right up: A web-development course! If you enjoyed your Python course and have not yet satiated your interest in programming, we strongly encourage you to join us for that, to slither like a Python to a new language!
+And this basically wraps up our last class, and our four-week Python course. But referring back to the starting sentence, even though our first introductory Python course has come to a closer, we have something new coming right up: a web-development course! If you enjoyed your Python course and have not yet satiated your interest in programming, we strongly encourage you to join us for that, to slither like a Python to a new language!
