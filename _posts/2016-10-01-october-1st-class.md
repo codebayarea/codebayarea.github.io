@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Last Class of Introductory Python
-feature-img: "img/Python/10012016/DSCF2700.jpg"
+feature-img: "img/Python/10012016/DSCF2700.JPG"
 ---
 
 These past four weeks passed by quickly: must all good things must come to an end? We believe that there's a small caveat.
@@ -36,7 +36,7 @@ After we understood the concepts behind a Rock-paper-scissors program, the class
 
 But of course, teachers jump in to help out as well - it's what we're here for after all, right?
 
-![Cameron](img/Python/10012016/DSCF2677.JPG)
+![Cameron](/img/Python/10012016/DSCF2677.JPG)
 
 After lots of [hard work](/img/Python/10012016/DSCF2714.JPG) [and comprehending concepts](/img/Python/10012016/DSCF2714.JPG), we go through a possible solution on how this is number guessing can be programmed.
 
