@@ -38,7 +38,7 @@ But of course, teachers jump in to help out as well - it's what we're here for a
 
 ![Cameron](/img/Python/10012016/DSCF2677.JPG)
 
-After lots of [hard work](/img/Python/10012016/DSCF2714.JPG) [and comprehending concepts](/img/Python/10012016/DSCF2714.JPG), we go through a possible solution on how this is number guessing can be programmed.
+After lots of [hard work](/img/Python/10012016/DSCF2714.JPG) and [comprehending concepts](/img/Python/10012016/DSCF2714.JPG), we go through a possible solution on how this is number guessing can be programmed.
 
 ![Solutions](/img/Python/10012016/DSCF2718.JPG)
 
