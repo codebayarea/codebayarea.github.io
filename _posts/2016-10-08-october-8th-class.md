@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Last Class of Introductory Web Development
+title: First Class of Introductory Web Development
 feature-img: "img/Webdev/10082016/DSCF2743.JPG"
 ---
 
