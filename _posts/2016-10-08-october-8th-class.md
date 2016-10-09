@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Last Class of Introductory Web Development
-feature-img: "img/Python/10012016/DSCF2700.JPG"
+feature-img: "img/Webdev/10082016/DSCF2743.JPG"
 ---
 
 Today was the first session out of three on introductory web development. It was great to see some familiar faces from our Python course, as well as newcomers!
