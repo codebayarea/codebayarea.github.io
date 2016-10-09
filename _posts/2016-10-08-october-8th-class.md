@@ -8,7 +8,7 @@ Today was the first session out of three on introductory web development. It was
 
 ![Unofficial class pic](/img/Webdev/10082016/DSCF2738.JPG)
 
-We started class off by installing the [brackets](http://brackets.io/) text editor. Our first concept is in HTML, the backbone of a given website. We first learned about headers:
+We started class off by installing the [Brackets](http://brackets.io/) text editor. Students were introduced to HTML, the backbone of a given website. We first learned about headers and paragraphs:
 
 {% highlight HTML %}
 <h1>This is a big header tag!</h1>
