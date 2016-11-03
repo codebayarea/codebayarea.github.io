@@ -6,7 +6,7 @@ feature-img: "img/LinkedIn/DSCF2899.JPG"
 
 This CodeBayArea coding session is quite out of the norm in terms of location, curriculum, and students, as CodeBayArea was able to collaborate with LinkedIn to run its annual KidsInCoding event!
 
-The timing was extended as well from our typical three hour session. Our schedule was as follows:
+The timing was extended as well from our typical two hour session. Our schedule was as follows:
 
 > 9:30 - 10:00 — Check-in and breakfast
 
