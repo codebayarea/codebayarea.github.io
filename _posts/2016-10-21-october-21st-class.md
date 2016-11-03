@@ -28,7 +28,7 @@ The timing was extended as well from our typical three hour session. Our schedul
 
 > 3:15 - 3:30 — Wrap up
 
-For our hour long coding session, we decided to use Python and its `turtle` module to introduce our students to programming. We have used turtle before as seen in our [second](http://blog.codebayarea.com/2016/09/17/september-seventeenth-class.html) and [third](http://blog.codebayarea.com/2016/09/24/september-24th-class.html) introductory Python courses.
+For our hour long coding session, we decided to use Python and its `turtle` module to introduce our students to programming. We have used turtle before as seen in our [second](http://blog.codebayarea.com/2016/09/17/september-seventeenth-class.html) and [third](http://blog.codebayarea.com/2016/09/24/september-24th-class.html) sessions of our introductory Python courses.
 
 ![Explaining](/img/LinkedIn/DSCF2904.JPG)
 
@@ -46,7 +46,7 @@ We then had Keith Schwarz, a lecturer in Stanford's Computer Science department,
 After lunch, we had a profile building session to help students create a LinkedIn profile, adding the facet of professionalism into their range of social media networks.
 
 ![Profile building part 1](/img/LinkedIn/DSCF2942.JPG)
-![Profile building part 2](/img/LinkedIn/DSCF2950)
+![Profile building part 2](/img/LinkedIn/DSCF2950.JPG)
 
 The Employee Panel was next, where current LinkedIn employees shared their paths to LinkedIn. We were able to see how non-traditional paths such as purusing art history could prove useful in the realm of technology, attesting to the breadth and synergy between computer science and seemingly unrelated fields.
 
