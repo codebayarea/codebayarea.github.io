@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LinkedIn "InDay" Session
+title: Last Class of Introductory Web Development
 feature-img: "img/Webdev/10222016/DSCF2982.JPG"
 ---
 
