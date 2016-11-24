@@ -20,6 +20,6 @@ And everyone digested the material really quickly, especially given that this is
 
 ![Correcting syntax](/img/Webdev/11122016/DSCF3009.JPG)
 
-We ended up class by making the pong paddles, but the ball was not able to move. This what we will be working pong^(haha get it) next class!
+We ended up class by making the pong paddles, but the ball was not able to move. This what we will be working pong (haha get it) next class!
 
 ![Class pic](/img/Webdev/11122016/DSCF3005.JPG)
